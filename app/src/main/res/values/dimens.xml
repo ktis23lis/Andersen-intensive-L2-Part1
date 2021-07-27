@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="text_size">160sp</dimen>
+    <dimen name="text_size_btn">60sp</dimen>
+    <dimen name="width_btn_toast">470dp</dimen>
+    <dimen name="width_btn_cnt">471dp</dimen>
+    <dimen name="width_88">88dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="article_text">5sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="width">100dp</dimen>
+    <dimen name="button_size">100dp</dimen>
+    <dimen name="text_scroll_size">20sp</dimen>
+    <dimen name="item_size">30sp</dimen>
+    <dimen name="counter_size">40sp</dimen>
+    <dimen name="margin_button">24dp</dimen>
+</resources>
